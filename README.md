@@ -4,7 +4,7 @@
 - 💞️ I love technology, coffee and applying knowledge to solve problems.
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=My+portfolio&style=for-the-badge&url=https://delfim-portfifolio.com)](http://delfim-portifolio.netlify.app/)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denycelestino21@gmail.com)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:denycelestino21@gmail.com)
 [![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deny_celestino/)
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delfim-celestino-amisse-pastola-698ba41b3/)
 
