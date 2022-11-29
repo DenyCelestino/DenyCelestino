@@ -23,5 +23,9 @@
 <img align="center" alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="right" height="100" width="100" alt="jovem programando" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"/>
 </div>
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DenyCelestino&show_icons=true&locale=en&layout=compact" alt="denycelestino" />
+
+
 
  ![Snake animation](https://github.com/DenyCelestino/DenyCelestino/blob/output/github-contribution-grid-snake.svg)
