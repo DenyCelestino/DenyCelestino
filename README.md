@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Delfim Celestino I am an Mobile & Web Fullstack developer.
-- 👀 I am currently working with Mobile and web skills.
+- 👀 I am currently working with Mobile and improve my web skills.
 - 🌱 I'm always learning.
 - 💞️ I love technology, coffee and applying knowledge to solve problems.
 
