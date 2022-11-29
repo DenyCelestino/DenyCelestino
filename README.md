@@ -8,7 +8,7 @@
 [![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deny_celestino/)
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delfim-celestino-amisse-pastola-698ba41b3/)
 
-![Deny GitHub stats](https://github-readme-stats.vercel.app/api?username=denycelestino&show_icons=true&theme=radical)
+![Deny GitHub stats](https://github-readme-stats.vercel.app/api?username=DenyCelestino&show_icons=true&theme=radical)
 
 
 ## Technologies I use in my daily life.
@@ -24,4 +24,4 @@
   <img align="right" height="100" width="100" alt="jovem programando" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"/>
 </div>
 
- ![Snake animation](https://github.com/denycelestino/denycelestino/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/DenyCelestino/DenyCelestino/blob/output/github-contribution-grid-snake.svg)
