@@ -9,7 +9,8 @@
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delfim-celestino-amisse-pastola-698ba41b3/)
 
 
-[curl -H "Accept: application/vnd.github.cloak-preview" https://api.github.com/search/commits\?q\=author:DenyCelestino](https://github.com/DenyCelestino/Algorithms-and-Data-Structures-in-Java )
+[![Ram's github stats](https://github-readme-stats.vercel.app/api?username=DenyCelestino&count_private=true&show_icons=true&icon_color=2f80ed)](https://[delfim](http://delfim-portifolio.netlify.app/).com)
+
 
 ## Technologies I use in my daily life.
 
